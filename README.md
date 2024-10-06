@@ -9,7 +9,7 @@
 - Open and close brackets are used to create a file download link []
 
 ## Project Title: Korex Monthly Sales [Dowload Here](https://docs.google.com/spreadsheets/d/1W_4svmVmrcb6BbOl3qfpkW4OYxDiI7Y5Fk20dMI3MTk/edit?usp=sharing)
-
+---
 ### Project Overview
 Korex Monthly Sales is a strategic initiative aimed at optimizing and tracking the monthly sales performance of Korex Travel and Logistics, a comprehensive travel service provider. Korex offers a wide range of travel-related services, including flight bookings, hotel reservations, transportation, vacation packages, visa assistance, and travel insurance. The project focuses on enhancing the efficiency of the sales process, improving customer engagement, and leveraging data to drive growth in an increasingly competitive travel industry.
 
@@ -27,3 +27,6 @@ Korex Monthly Sales is a strategic initiative aimed at optimizing and tracking t
 
 ### Outcome
 The project aims to provide Korex Travel and Logistics with actionable insights into their monthly sales performance, helping them stay competitive, improve customer satisfaction, and grow their business sustainably
+
+### Data Visualisation
+
