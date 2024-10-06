@@ -9,7 +9,10 @@
 - Open and close brackets are used to create a file download link []
 - Uploads images from folder
 - dash --- is used for creating underline
-- backward comma ``` is use to write 
+- backward comma ``` is use to write
+- full column are use to bring up emoji 😆
+-
+
 ## Project Title: Korex Monthly Sales [Dowload Here](https://docs.google.com/spreadsheets/d/1W_4svmVmrcb6BbOl3qfpkW4OYxDiI7Y5Fk20dMI3MTk/edit?usp=sharing)
 ---
 ### Project Overview
@@ -33,3 +36,7 @@ The project aims to provide Korex Travel and Logistics with actionable insights 
 ### Data Visualisation
 ![Monthly Sales Sheet](https://github.com/user-attachments/assets/c50f2fd0-3c24-47bb-ab21-e138ba83ad52)
 
+
+ |Heading 1|Heading 2|Heading 3|
+ |---------|---------|---------|
+ |Table 1|Table 2|Table 3|
