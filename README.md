@@ -4,7 +4,7 @@
 - Tags #  are used to change Heading sizes
 
 - Data Tools used so far, Microsoft Excel, SQL, GiftHub, and PowerBi
-
+- press enter to create indent
 - Dash - are used to create bulletins
 - Open and close brackets are used to create a file download link []
 
@@ -24,3 +24,6 @@ Korex Monthly Sales is a strategic initiative aimed at optimizing and tracking t
 - Sales forecasting and trend analysis.
 - Customer segmentation and targeted marketing campaigns.
 - Integration of online and offline sales channels.
+
+### Outcome
+The project aims to provide Korex Travel and Logistics with actionable insights into their monthly sales performance, helping them stay competitive, improve customer satisfaction, and grow their business sustainably
