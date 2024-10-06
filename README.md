@@ -13,6 +13,7 @@
 - full columns are used to bring up emoji 😆
 - Pie | | are used to create Tables
 - Create outlines with [] + (#) same character, lowercase
+---
 
 [Project Overview](#project-overview)
 
@@ -59,3 +60,5 @@ The project aims to provide Korex Travel and Logistics with actionable insights 
  |Heading 1|Heading 2|Heading 3|
  |---------|---------|---------|
  |Table 1|Table 2|Table 3|
+
+ 
