@@ -29,4 +29,5 @@ Korex Monthly Sales is a strategic initiative aimed at optimizing and tracking t
 The project aims to provide Korex Travel and Logistics with actionable insights into their monthly sales performance, helping them stay competitive, improve customer satisfaction, and grow their business sustainably
 
 ### Data Visualisation
+![Monthly Sales Sheet](https://github.com/user-attachments/assets/c50f2fd0-3c24-47bb-ab21-e138ba83ad52)
 
