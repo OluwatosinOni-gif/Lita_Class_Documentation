@@ -7,14 +7,27 @@
 - Press enter to create an indent
 - Dash - are used to create bulletins
 - Open and close brackets are used to create a file download link []
-- Uploads images from folder
+- Upload images from the folder
 - dash --- is used for creating underline
-- backward comma ``` is use to write
-- full column are use to bring up emoji 😆
--
+- backward comma ``` is used to write
+- full columns are used to bring up emoji 😆
+- Pie | | are used to create Tables
+- Create outlines with [] + () same character, lowercase
+
+[Project Overview](#project-overview)
+Objectives
+Key Features
+Outcome
+Data Visualisation
+Create New Table
+
+
+
 
 ## Project Title: Korex Monthly Sales [Dowload Here](https://docs.google.com/spreadsheets/d/1W_4svmVmrcb6BbOl3qfpkW4OYxDiI7Y5Fk20dMI3MTk/edit?usp=sharing)
 ---
+
+
 ### Project Overview
 Korex Monthly Sales is a strategic initiative aimed at optimizing and tracking the monthly sales performance of Korex Travel and Logistics, a comprehensive travel service provider. Korex offers a wide range of travel-related services, including flight bookings, hotel reservations, transportation, vacation packages, visa assistance, and travel insurance. The project focuses on enhancing the efficiency of the sales process, improving customer engagement, and leveraging data to drive growth in an increasingly competitive travel industry.
 
@@ -36,6 +49,7 @@ The project aims to provide Korex Travel and Logistics with actionable insights 
 ### Data Visualisation
 ![Monthly Sales Sheet](https://github.com/user-attachments/assets/c50f2fd0-3c24-47bb-ab21-e138ba83ad52)
 
+### Create New Table
 
  |Heading 1|Heading 2|Heading 3|
  |---------|---------|---------|
