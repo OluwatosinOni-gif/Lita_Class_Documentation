@@ -1,13 +1,15 @@
 # Lita_Project
-- This is where I documented my first project while learning Data Analysis with the Incubator Hub
+ This is where I documented my first project while learning Data Analysis with the Incubator Hub
 
 - Tags #  are used to change Heading sizes
 
 - Data Tools used so far, Microsoft Excel, SQL, GiftHub, and PowerBi
-- press enter to create indent
+- Press enter to create an indent
 - Dash - are used to create bulletins
 - Open and close brackets are used to create a file download link []
-
+- Uploads images from folder
+- dash --- is used for creating underline
+- backward comma ``` is use to write 
 ## Project Title: Korex Monthly Sales [Dowload Here](https://docs.google.com/spreadsheets/d/1W_4svmVmrcb6BbOl3qfpkW4OYxDiI7Y5Fk20dMI3MTk/edit?usp=sharing)
 ---
 ### Project Overview
