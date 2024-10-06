@@ -12,14 +12,19 @@
 - backward comma ``` is used to write
 - full columns are used to bring up emoji 😆
 - Pie | | are used to create Tables
-- Create outlines with [] + () same character, lowercase
+- Create outlines with [] + (#) same character, lowercase
 
 [Project Overview](#project-overview)
-Objectives
-Key Features
-Outcome
-Data Visualisation
-Create New Table
+
+[Objectives](#objectives)
+
+[Key Features](#key-features)
+
+[Outcome](#outcome)
+
+[Data Visualisation](#data-visualisation)
+
+[Create New Table](#create-new-table)
 
 
 
