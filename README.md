@@ -76,10 +76,15 @@ Microsoft Exel
 - Mastered data entry fundamentals
 - Conducted statistical analysis using Excel functions
 
-  Here are some formulas for text cleaning
-  =PROPER(TRIM(B6)) This is used to Properly Entered Names and Trimmed
-=FIND(" ",B6) is used to find space in a separated spaced name
-=LEFT(B6,FIND(" ",B6)) is used to separated two names in different column Below are some visuals of my class
+Here are some formulas for text cleaning:
+
+- =PROPER(TRIM(B6)) — Used to enter each word in a name while removing extra spaces.
+  
+=FIND(" ", B6) — Used to find the position of a space in a name with separated words.
+=LEFT(B6, FIND(" ", B6)) — Extracts the first name (left side of the space) into a separate column.
+=RIGHT(B6, LEN(B6) - FIND(" ", B6)) — Extracts the last name (right side of the space) into a separate column.
+  
+Below are some visuals of my class
 
 
 
