@@ -12,7 +12,7 @@
 
 [Tools Used in Learning](#tools-used-in-learning)
 
-[Microsoft Exel Class](#microsoft-excel-class)
+[Microsoft Excel Class](#microsoft-excel-class)
 
 [SQL Class](#sql-class)
 
@@ -81,7 +81,7 @@ The project aims to build a comprehensive skill set in data analysis, preparing 
 
 During my studies at The Incubator Hub, I developed skills in working with complex data, identifying patterns, and extracting insights. Key experiences include:
 
-### Microsoft Exel Class
+### Microsoft Excel Class
 - Data Management
 - Mastered data entry fundamentals
 - Conducted statistical analysis using Excel functions
@@ -107,7 +107,10 @@ Here are some formulas for text cleaning:
 
   ![Second Name Separated](https://github.com/user-attachments/assets/f36f9e8c-4b09-4619-a2fa-537a99e00065)
 
+
   - =B6 & " " & C6 — Used to join the first name and last name into one cell with a space in between.
+    ![Full Name](https://github.com/user-attachments/assets/709cefed-c1d9-434b-b36a-059434797e14)
+
     
 
 
