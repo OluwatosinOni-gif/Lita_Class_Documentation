@@ -142,7 +142,7 @@ Triple dashes (---) create a horizontal line or underline.
 
 Backticks (`) are used to write code, including SQL, inline or in blocks.
 
-Colon syntax (:emoji:) displays emojis, such as 😆.
+Colon syntax (: emoji:) displays emojis, such as 😆.
 
 Pipes (|) are used to create tables.
 
@@ -162,8 +162,8 @@ Learned Power BI fundamentals
 Used Power Query for data transformation
 These experiences have equipped me with valuable skills for a role as a data analyst. I continuously seek opportunities to expand my knowledge, exploring new data analysis tools and techniques in my free time. Driven by a passion for uncovering insights and solving problems, I thrive in both collaborative and independent work environments.
 
+#### Data Visualisation
 
-### Data Visualisation
-![Monthly Sales Sheet](https://github.com/user-attachments/assets/c50f2fd0-3c24-47bb-ab21-e138ba83ad52)
+
 
  
