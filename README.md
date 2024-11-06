@@ -10,6 +10,16 @@
 
 [Outcome](#outcome)
 
+[Tools Used in Learning](#tools-used-in-learning)
+
+[Microsoft Exel Class](#microsoft-excel-class)
+
+[SQL Class](#sql-class)
+
+[GitHub](#github)
+
+[Power BI](#power-bi)
+
 [Data Visualisation](#data-visualisation)
 
 [Create New Table](#create-new-table)
@@ -71,7 +81,7 @@ The project aims to build a comprehensive skill set in data analysis, preparing 
 
 During my studies at The Incubator Hub, I developed skills in working with complex data, identifying patterns, and extracting insights. Key experiences include:
 
-Microsoft Exel 
+### Microsoft Exel Class
 - Data Management
 - Mastered data entry fundamentals
 - Conducted statistical analysis using Excel functions
@@ -79,19 +89,33 @@ Microsoft Exel
 Here are some formulas for text cleaning:
 
 - =PROPER(TRIM(B6)) — Used to enter each word in a name while removing extra spaces.
+
+  ![Properly Entered and Trimmed Name](https://github.com/user-attachments/assets/cd81ab26-7f56-4aad-bd0f-58f31e8f9c57)
+
   
-=FIND(" ", B6) — Used to find the position of a space in a name with separated words.
-=LEFT(B6, FIND(" ", B6)) — Extracts the first name (left side of the space) into a separate column.
-=RIGHT(B6, LEN(B6) - FIND(" ", B6)) — Extracts the last name (right side of the space) into a separate column.
+- =FIND(" ", B6) — Used to find the position of a space in a name with separated words.
+
+![Space](https://github.com/user-attachments/assets/8a48b189-aab0-48d5-8568-35ad176e8b77)
+
   
-Below are some visuals of my class
+- =LEFT(B6, FIND(" ", B6)) — Extracts the first name (left side of the space) into a separate column.
+
+  ![First Name Separated](https://github.com/user-attachments/assets/909dd661-4eaf-41ab-9778-80b98bc44701)
+
+
+- =RIGHT(B6, LEN(B6) - FIND(" ", B6)) — Extracts the last name (right side of the space) into a separate column.
+
+  ![Second Name Separated](https://github.com/user-attachments/assets/f36f9e8c-4b09-4619-a2fa-537a99e00065)
+
+  - =B6 & " " & C6 — Used to join the first name and last name into one cell with a space in between.
+    
 
 
 
 Built reports with pivot tables and created charts for visual representation
 
 
-SQL
+### SQL Class
 
 Created databases and tables
 Used SQL functions in calculations
@@ -129,7 +153,7 @@ Example Table Structure:
 
 
   
-Power BI
+### Power BI
 
 Learned Power BI fundamentals
 Used Power Query for data transformation
