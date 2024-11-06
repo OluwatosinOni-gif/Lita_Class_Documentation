@@ -164,6 +164,16 @@ These experiences have equipped me with valuable skills for a role as a data ana
 
 #### Data Visualisation
 
+![Excel Data Visuals](https://github.com/user-attachments/assets/70ff6f16-0354-4a04-8a8c-4b0b06cd7ab6)
 
 
- 
+![Excel Data Visuals 2](https://github.com/user-attachments/assets/27de29bc-9fd3-4443-b042-af1eacd26b57)
+
+
+ ![Map Data Visuals](https://github.com/user-attachments/assets/05be8ed6-cb16-47b6-a726-51ca19cdda1d)
+
+
+![HR Data Visuals 1](https://github.com/user-attachments/assets/551f0643-3136-4356-9c20-86b478bec75d)
+
+![HR Data Visuals 2](https://github.com/user-attachments/assets/bd47dd7a-9364-4fa3-96ec-0327a66ec631)
+
