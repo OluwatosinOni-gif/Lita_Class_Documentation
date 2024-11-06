@@ -18,8 +18,7 @@
 
 
 
-## Project Title: Korex Monthly Sales [Dowload Here](https://docs.google.com/spreadsheets/d/1W_4svmVmrcb6BbOl3qfpkW4OYxDiI7Y5Fk20dMI3MTk/edit?usp=sharing)
----
+## Project Title: Lita Data Analysis Class[Dowload Here](https://canvas.instructure.com/courses/10186984/files#)
 
 
 ### Project Overview
